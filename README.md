@@ -2,4 +2,4 @@
 Exploit decrypted zip files to reveal filenames
 
 # Usage
-#### python unzip.py "file destination"
+    python unzip.py "file destination"
